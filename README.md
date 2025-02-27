@@ -142,8 +142,4 @@ Dataset skew detection with corrective suggestions
 
 The open-source research ecosystem demonstrates remarkable progress with multiple production-grade solutions now available. DeepResearcher.site emerges as particularly noteworthy for its balanced approach combining academic rigor with commercial-grade performance. Future development should prioritize bridging remaining capability gaps while maintaining the cost advantages inherent in open architectures.
 
-Citations:
-[1] https://deepresearcher.site
 
----
-来自 Perplexity 的回答: pplx.ai/share
