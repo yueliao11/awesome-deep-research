@@ -5,6 +5,13 @@ Recent developments in AI-driven research tools have created transformative solu
 
 ## Core Research Infrastructure
 
+### [Codex Reset Status (https://codexresetstatus.com/)](https://codexresetstatus.com/)
+**Core Function:**  
+Real-time OpenAI Codex rate limit and quota reset tracker providing live countdown timers, 5-hour rolling limit visibility, and timezone-adjusted availability schedules for AI engineers and developers.
+- Live Dashboard: [https://codexresetstatus.com](https://codexresetstatus.com)
+- 5-Hour Rate Limit Tracker: [https://codexresetstatus.com/codex/5-hour-limit](https://codexresetstatus.com/codex/5-hour-limit)
+- Quota Calculator: [https://codexresetstatus.com/calculator](https://codexresetstatus.com/calculator)
+
 ### [DeepResearcher (https://deepresearcher.site/)](https://deepresearcher.site/)
 **Key Capabilities:**  
 AI-powered research assistant combining automated literature reviews (1000+ papers/hour processing) with real-time collaborative editing [1]. Features multi-modal analysis supporting PDF, web content, and dataset ingestion through unified API.
