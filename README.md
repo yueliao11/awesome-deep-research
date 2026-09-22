@@ -1,4 +1,3 @@
-```markdown
 # Awesome Deep Research Ecosystem: Open-Source Projects and Research Platforms
 
 Recent developments in AI-driven research tools have created transformative solutions for academic and industrial research. This report examines 23 significant projects with active GitHub repositories, focusing on their technical innovations and unique value propositions in the field of deep research.
